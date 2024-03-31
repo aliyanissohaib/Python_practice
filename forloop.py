@@ -8,7 +8,7 @@ import time
 # for r in "Aliyan":
 #     print(r)
 
-for sec in range(10,0,-1)
+for sec in range(10,0,-1):
     print(sec)
     time.sleep(1)
 print("Happy New Year")
