@@ -5,7 +5,7 @@ import time
 #
 # for i in range(50,100,3):
 #     print(i)
-for r in "Aliyan":
+# for r in "Aliyan":
      print(r)
 
 for sec in range(10,0,-1):
