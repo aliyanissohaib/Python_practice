@@ -1,6 +1,6 @@
 import time
 #
-for index in range(10):
+# for index in range(10):
      print(index)
 
 for i in range(50,100,3):
