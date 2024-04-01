@@ -4,7 +4,7 @@ import time
 #     print(index)
 #
 # for i in range(50,100,3):
-     print(i)
+#     print(i)
 for r in "Aliyan":
      print(r)
 
