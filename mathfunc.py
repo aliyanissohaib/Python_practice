@@ -9,7 +9,7 @@ z = 4
 #print(min(x,y,z))
 
 #print(round(pi))
-#nnnnprint(math.ceil(pi))
+#nnnnnprint(math.ceil(pi))
 #print(math.floor(pi))
 #print(abs(pi))
 print(pow(pi,3))
