@@ -12,5 +12,5 @@ z = 4
 #nggrint(math.ceil(pi))
 #print(math.floor(pi))
 #print(abs(pi))
-print(pow(pi,3))ghhh
+print(pow(pi,3))ghh
 print(math.sqrt(pi))
