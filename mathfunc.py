@@ -10,7 +10,7 @@ z = 4
 
 #print(round(pi))
 #nggrint(math.ceil(pi))
-#print(math.floor(pi))nn
+#print(math.floor(pi))n
 #print(abs(pi))
 print(pow(pi,3))
 print(math.sqrt(pi))
