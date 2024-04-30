@@ -11,6 +11,6 @@ z = 4
 #print(round(pi))
 #nggrint(math.ceil(pi))
 #print(math.floor(pi))n
-#print(abs(pi))nnnnn
+#print(abs(pi))nnnn
 print(pow(pi,3))
 print(math.sqrt(pi))
