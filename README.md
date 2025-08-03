@@ -43,7 +43,7 @@ python-practice/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-practice.git
+git clone https://github.com/aliyanissohaib/Python_practice.git
 cd python-practice
 ```
 
